@@ -32,4 +32,5 @@ git add report/roc_curve.png
 git commit -m "Added ROC curve image"
 git push origin main
 
+![ROC Curve](report/roc_curve.png)
 
