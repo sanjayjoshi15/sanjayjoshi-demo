@@ -27,5 +27,9 @@ fraud-detection-ml/
 
 roc_curve.png.
 
+cd Desktop/GITHUB/sanjayjoshi-demo
+git add report/roc_curve.png
+git commit -m "Added ROC curve image"
+git push origin main
 
 
