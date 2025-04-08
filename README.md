@@ -15,4 +15,11 @@ fraud-detection-ml/
 ├── requirements.txt  
 ├── report/ → fraud_report.pdf / .pptx
 
+## 📊 Model Performance
+
+- **Best Model:** Gradient Boosting  
+- **Precision:** 0.92  
+- **Recall:** 0.88  
+- **F1-Score:** 0.90  
+- **ROC-AUC:** 0.94
 
