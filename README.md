@@ -23,3 +23,7 @@ fraud-detection-ml/
 - **F1-Score:** 0.90  
 - **ROC-AUC:** 0.94
 
+## 📈 Visualization
+
+![ROC Curve](images/roc_curve.png)
+
