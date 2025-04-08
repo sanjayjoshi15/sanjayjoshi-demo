@@ -25,6 +25,7 @@ fraud-detection-ml/
 
 ## 📈 Visualization
 
-![ROC Curve](report/roc_curve.png)
+![ROC Curve](roc_curve.png)
+
 
 
